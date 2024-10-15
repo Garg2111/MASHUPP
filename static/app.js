@@ -1,3 +1,4 @@
+// Javascript File
 document.addEventListener("DOMContentLoaded", function() {
     const form = document.getElementById("mashup-form");
     const statusMessage = document.getElementById("status-message");
